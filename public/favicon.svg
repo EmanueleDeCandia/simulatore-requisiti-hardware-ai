@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Sfondo nero con angoli leggermente smussati per un'icona pulita ed elegante -->
+  <rect width="64" height="64" rx="14" fill="#000000" />
+  
+  <!-- Lampadina bianca stilizzata / Glowing lightbulb -->
+  <!-- Bulbo e profilo superiore -->
+  <path
+    d="M 32 10 
+       C 21.5 10, 14 17.5, 14 27 
+       C 14 33.2, 17.6 37.8, 22.2 42.2 
+       C 23.8 43.8, 24.8 45.4, 25 47 
+       L 39 47 
+       C 39.2 45.4, 40.2 43.8, 41.8 42.2 
+       C 46.4 37.8, 50 33.2, 50 27 
+       C 50 17.5, 42.5 10, 32 10 Z"
+    fill="#FFFFFF"
+  />
+  
+  <!-- Filetti / Righe della base metallica -->
+  <path
+    d="M 25 49 L 39 49 
+       C 39 50.8, 38.5 52, 37.8 52.8 
+       L 26.2 52.8 
+       C 25.5 52, 25 50.8, 25 49 Z"
+    fill="#E2E8F0"
+  />
+  <path
+    d="M 26.5 54.2 L 37.5 54.2 
+       C 37 55.4, 36 56.4, 34.5 57 
+       L 29.5 57 
+       C 28 56.4, 27 55.4, 26.5 54.2 Z"
+    fill="#CBD5E1"
+  />
+  
+  <!-- Dettaglio interno filamento in contrasto scuro -->
+  <path
+    d="M 28 26 L 31 19 L 33 19 L 36 26"
+    stroke="#000000"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+</svg>
